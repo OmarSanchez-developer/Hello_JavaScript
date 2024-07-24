@@ -2,8 +2,18 @@
 //Este es un comentario  de texto en linea
 
 // 2. Escribe un comentario en varias linea
+let message = `Hola, este
+es un curso de
+JavaScript`
 
 // 3. Declara variables con valores asociados a todos los datos de tipo primitivos
+Undefined: typeof instance === "undefined"
+Boolean: typeof instance === "boolean"
+Number: typeof instance === "number"
+String: typeof instance === "string"
+BigInt: typeof instance === "bigint"
+Symbol: typeof instance === "symbol"
+
 
 // 4. Imprime por consola el valor de todas las variables
 
